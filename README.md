@@ -1,9 +1,9 @@
 # 🌐 Intro to Web Development 🚀
 
-- **Name:** [Your Name Here]
+- **Name:** Sebastian Shen
 - **Instructor:** Mr. Gullo
 - **Course Authors:** Mary Kiang, Atiyah Conry
-- **Date of Completion:** [Date Here]
+- **Date of Completion:** 4.6
 
 ---
 
