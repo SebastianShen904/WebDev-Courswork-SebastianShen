@@ -1,3 +1,4 @@
 # Unit 2 Reflection
-
-[Reflect on your journey here]
+In this unit, I explored the core ideas of design and the design thinking process. We looked at how design is everywhere, not just in products but also in websites and user experiences. I learned about the "science" of website design, how to build prototypes, and the importance of putting the user first. We also covered how to use storytelling to guide design decisions.
+One thing that really stood out to me is how similar this process is to making game prototypes. When designing a website, you have to think about how the user will interact with every element, from navigation to layout. This feels exactly like designing UI for a game, where you need to make sure players can understand the controls, find information easily, and have a smooth experience. Just like in game design, user experience is the top priority in web design, and small choices in layout or flow can change how people feel about the whole product.
+This unit helped me see design not just as how something looks, but as a way to solve problems and guide users. I feel more confident applying design thinking to both web projects and my game development work, and I’m excited to keep practicing these skills.
