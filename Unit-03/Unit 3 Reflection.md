@@ -1,3 +1,2 @@
 # Unit 3 Reflection
-
-[Reflect on your journey here]
+What stood out most in this unit was the shift in perspective. Moving from a "student" mindset to a "web designer" mindset made the coding feel more purposeful. It became clear that the best websites are those where the technical structure (HTML) perfectly supports the client’s message and the user’s journey. I feel more confident in my ability to plan a project from scratch and am excited to start building out these structures using more advanced styling in the upcoming units.
