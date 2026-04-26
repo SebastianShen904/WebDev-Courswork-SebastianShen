@@ -1,3 +1,2 @@
 # Unit 4 Reflection
-
-[Reflect on your journey here]
+During this unit, I enhanced my client’s webpage by integrating structured lists, embedded imagery, and critical accessibility features. It was rewarding to watch the site evolve; the lists significantly improved information hierarchy, while the visual elements added necessary engagement. While I find the process of building from scratch incredibly satisfying, I’ve also gained a deeper appreciation for the complexities of web design. Specifically, prioritizing accessibility—such as crafting descriptive alt text and maintaining a screen-reader-friendly structure—taught me that even simple HTML requires intentional planning. I look forward to expanding the site’s functionality as my skills progress.
