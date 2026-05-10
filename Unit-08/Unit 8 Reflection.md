@@ -1,3 +1,2 @@
 # Unit 8 Reflection
-
-[Reflect on your journey here]
+This lesson introduced me to **responsive and adaptive design**, teaching me how to build websites that function seamlessly on both desktop and mobile. I practiced using **media queries, fluid grids, and fixed breakpoints** to create layouts that either flow automatically or snap to specific device sizes. By comparing these methods, I now understand how to balance the flexibility of responsive design with the controlled layouts of adaptive design to better serve my client's needs.
