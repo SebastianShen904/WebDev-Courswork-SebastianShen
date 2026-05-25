@@ -1,2 +1,4 @@
 # Unit 6 Reflection
 Unit 6 focused on the iterative nature of web design, emphasizing that a professional site is built through a continuous cycle of feedback and refinement. I enhanced my technical proficiency in CSS by mastering link states, adding favicons, and using the `<span>` tag for precise styling, all of which contributed to a more polished user interface. Beyond the code, I developed a client-centered mindset by practicing the testing phase of the design thinking process, learning to prioritize user needs and external suggestions over my own design preferences. Ultimately, this unit gave me the confidence to transform a basic HTML structure into a functional, professional website that effectively serves its intended audience.
+
+<img width="144" height="268" alt="截屏2026-05-25 上午8 10 14" src="https://github.com/user-attachments/assets/7f451d8f-8f12-4078-9cd3-b07e5dcea306" />
