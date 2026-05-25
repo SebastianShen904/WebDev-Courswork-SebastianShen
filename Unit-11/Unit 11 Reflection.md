@@ -2,3 +2,5 @@
 My journey in this unit represents a major shift from basic HTML formatting to building fully interactive, multi-page websites. I learned that excellent design goes beyond aesthetics—it is about solving problems and optimizing the user experience. By combining HTML, CSS, and JavaScript with core principles like visual hierarchy and color theory, I grew from a coder into a purposeful designer.
 
 A major highlight was developing the cephalopod education site, a project that successfully balanced technical execution with real-world utility. This experience solidified my understanding of accessibility and user-centered design. I am excited to continue expanding my skills in advanced JavaScript and responsive design to create increasingly functional, inclusive, and meaningful web applications.
+
+<img width="143" height="77" alt="截屏2026-05-25 上午8 11 37" src="https://github.com/user-attachments/assets/4e59b6dc-7307-4a07-a635-096af260ee23" />
