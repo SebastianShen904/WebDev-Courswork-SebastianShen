@@ -1,2 +1,4 @@
 # Unit 9 Reflection
 Unit 9 introduced me to JavaScript and its role in transforming static web pages into responsive, dynamic user experiences. In Lesson 2, I practiced foundational input and output techniques, including utilizing alerts and functions to handle user actions. Lesson 3 focused on integrating JavaScript with HTML, allowing me to implement interactive elements like buttons and pop-ups into my portfolio site. Ultimately, this unit emphasized that web design extends beyond aesthetics to user engagement. I can now write basic functions in external JavaScript files and link them to HTML, skills that will significantly elevate the functionality of my future projects.
+
+<img width="143" height="189" alt="截屏2026-05-25 上午8 11 17" src="https://github.com/user-attachments/assets/26ab69ab-7785-452c-9aa1-94f29aa451ef" />
