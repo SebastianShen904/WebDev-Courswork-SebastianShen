@@ -1,3 +1,4 @@
 # Unit 11 Reflection
+My journey in this unit represents a major shift from basic HTML formatting to building fully interactive, multi-page websites. I learned that excellent design goes beyond aesthetics—it is about solving problems and optimizing the user experience. By combining HTML, CSS, and JavaScript with core principles like visual hierarchy and color theory, I grew from a coder into a purposeful designer.
 
-[Reflect on your journey here]
+A major highlight was developing the cephalopod education site, a project that successfully balanced technical execution with real-world utility. This experience solidified my understanding of accessibility and user-centered design. I am excited to continue expanding my skills in advanced JavaScript and responsive design to create increasingly functional, inclusive, and meaningful web applications.
